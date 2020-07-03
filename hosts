@@ -1,0 +1,231 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+0.0.0.0 account.jetbrains.com
+0.0.0.0 www.jetbrains.com
+
+0.0.0.0 www.jetbrains.com
+0.0.0.0 account.jetbrains.com
+10.101.70.205 testlink.hdsc.com
+10.101.70.219 jira.hdsc.com
+10.101.70.226 gitlab.hdsc.com
+10.101.70.226 gitlab
+10.101.70.223 svn.hdsc.com
+10.101.70.224 share.hdsc.com
+10.101.70.239 jenkins-sit.hdsc.com
+10.101.70.189 maven-sit.hdsc.com
+10.101.70.208 jenkins-dev.hdsc.com
+10.101.70.237 maven-dev.hdsc.com
+10.101.70.111 192.168.0.111
+10.101.71.11 egc.hdsc.com
+10.101.71.132 pay-sit-middle-01
+10.101.71.133 pay-sit-middle-02
+10.101.71.134 pay-sit-middle-03
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+
+10.101.71.41 bigdata-dev-41
+10.101.71.42 bigdata-dev-42
+10.101.71.43 bigdata-dev-43
+
+10.101.71.54 bigdata-sit-54
+10.101.71.55 bigdata-sit-55
+10.101.71.56 bigdata-sit-56
+
+10.101.72.32 bigdata-kafka-01
+10.101.72.33 bigdata-kafka-02
+10.101.72.34 bigdata-kafka-03
+10.101.72.35 bigdata-app-01
+
+10.101.70.108 eureka-dev config-dev
+10.101.70.46 kibana-dev
+10.101.70.208 jenkins-dev
+10.101.70.239 jenkins-test
+10.101.70.56 hdfs56vl
+10.101.70.57 hdfs57vl
+10.101.70.58 hdfs58vl
+10.101.70.59 hdfs59vl
+10.101.70.127 master
+10.101.70.8 slave1
+10.101.70.9 slave2
+#47.106.136.180 aliyun
+192.168.6.111 cdh-node1
+192.168.6.112 cdh-node2
+192.168.6.113 cdh-node3
+10.101.70.232 bi-dev.xl.cn
+#0.0.0.0 account.jetbrains.com
+127.0.0.1 localhost
+10.101.75.188 bigdata-dev-188
+10.101.75.189 bigdata-dev-189
+10.101.75.190 bigdata-dev-190
+10.101.75.191 bigdata-dev-191
+10.101.75.192 bigdata-dev-192
+10.101.75.193 bigdata-dev-193
+10.101.75.194 bigdata-dev-194
+10.101.71.8 weather.evergrande.cn
+10.101.75.108 bigdata-dev-cdh-03
+10.101.75.101 bigdata-dev-cdh-01
+10.101.75.102 bigdata-dev-cdh-02
+10.101.75.109 bigdata-dev-cdh-04
+10.101.75.118 bigdata-dev-cdh-05
+10.101.75.119 bigdata-dev-cdh-06
+10.101.75.120 bigdata-dev-cdh-07
+10.101.75.128 bigdata-dev-cdh-08
+10.101.75.129 bigdata-dev-cdh-09
+10.101.75.148 bigdata-dev-cdh-10
+10.101.75.149 bigdata-dev-cdh-11
+10.101.75.150 bigdata-dev-cdh-12
+10.101.75.151 bigdata-dev-cdh-13
+10.101.75.152 bigdata-dev-cdh-14
+10.101.75.153 bigdata-dev-cdh-15
+10.101.75.154 bigdata-dev-cdh-16
+
+
+
+
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
+
+127.0.0.1 search.namequery.com 
+
+127.0.0.1 search1.namequery.com 
+
+127.0.0.1 search2.namequery.com 
+
+127.0.0.1 search64.namequery.com 
+
+127.0.0.1 search.us.namequery.com 
+
+127.0.0.1 bh.namequery.com 
+
+127.0.0.1 namequery.nettrace.co.za 
+
+127.0.0.1 m229.absolute.com 
